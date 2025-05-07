@@ -39,9 +39,6 @@ src/
 ```
 ## 🔌 Configuración de PostgreSQL
 ```
-
-## 🔌 Configuración de PostgreSQL
-
 Edita `src/main/resources/application.properties`:
 
 ```properties
@@ -93,5 +90,6 @@ Este proyecto está bajo la licencia MIT.
 **🎓 Universidad de El Salvador**  
 **📚 Facultad Multidisciplinaria de Occidente**  
 **💻 Desarrollo de Aplicaciones Web -2025**
+**Kevin Rivera
 ```
 
