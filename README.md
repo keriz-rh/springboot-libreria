@@ -22,6 +22,7 @@ Este proyecto es un sistema de gestión para una librería, desarrollado como pa
 ## 📂 Estructura del Proyecto
 
 ```
+```
 src/
 ├── main/
 │   ├── java/com/example/libreria/
@@ -35,6 +36,8 @@ src/
 │   │   ├── LibreriaApplication.java
 │   ├── resources/
 │   │   ├── application.properties
+```
+## 🔌 Configuración de PostgreSQL
 ```
 
 ## 🔌 Configuración de PostgreSQL
