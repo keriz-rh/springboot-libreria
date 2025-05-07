@@ -1,3 +1,11 @@
+---
+
+**🎓 Universidad de El Salvador**  
+**📚 Facultad Multidisciplinaria de Occidente**  
+**💻 Desarrollo de Aplicaciones Web -2025**
+**Kevin Rivera -rh16042**
+```
+
 ```markdown
 # 🏛️ Proyecto de Librería con Spring Boot, JPA y PostgreSQL
 
@@ -85,11 +93,5 @@ Cliente ──── OneToMany ────> Venta ──── OneToMany ──
 
 Este proyecto está bajo la licencia MIT. 
 
----
 
-**🎓 Universidad de El Salvador**  
-**📚 Facultad Multidisciplinaria de Occidente**  
-**💻 Desarrollo de Aplicaciones Web -2025**
-**Kevin Rivera
-```
 
