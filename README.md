@@ -1,12 +1,10 @@
 ---
-
 **🎓 Universidad de El Salvador**  
 **📚 Facultad Multidisciplinaria de Occidente**  
 **💻 Desarrollo de Aplicaciones Web -2025**
 **Kevin Rivera -rh16042**
 ```
 
-```markdown
 # 🏛️ Proyecto de Librería con Spring Boot, JPA y PostgreSQL
 
 Este proyecto es un sistema de gestión para una librería, desarrollado como parte del examen corto #2 de la asignatura **Desarrollo de Aplicaciones Web** en la Universidad de El Salvador. Implementa un modelo de negocio completo usando Spring Boot, Spring Data JPA y PostgreSQL.
